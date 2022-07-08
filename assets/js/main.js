@@ -33,8 +33,8 @@
 					// Images (in the format of 'url': 'alignment').
 						images: {
 							'images/photobeer.jpg': 'center',
-							'images/dnspod.png': 'center',
-							'images/dolls.jpg': 'center'
+							'images/beach.jpg': 'center',
+							'images/Thailand.jpg': 'center'
 						},
 
 					// Delay.
