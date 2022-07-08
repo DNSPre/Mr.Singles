@@ -35,6 +35,7 @@
 							'images/photobeer.jpg': 'center',
 							'images/beach.jpg': 'center',
 							'images/Thailand.jpg': 'center'
+							'images/moon.jpg': 'center'
 						},
 
 					// Delay.
